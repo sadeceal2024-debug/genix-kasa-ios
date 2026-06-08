@@ -19,7 +19,7 @@ workflows:
       vars:
         XCODE_WORKSPACE: "src/Kasa Takip.xcworkspace"
         XCODE_SCHEME: "Kasa Takip"
-        APP_STORE_APPLE_ID: "6778013652"
+        APP_STORE_APPLE_ID: "6776061647"
       xcode: latest
       cocoapods: default
 
